@@ -1,15 +1,16 @@
+
 /**
  * @author zhuofu
  * 
  */
 public class costmatrix {
-	public static int[][] costmatrix_cmp(vertex[] m, vertex[] n) {
+	public static double [][] costmatrix_cmp(vertex[] m, vertex[] n) {
 		int length = m.length + n.length;
 		if (m.length == 0 || n.length == 0) {
 			System.out.println("empty vertex");
 			return null;
 		}
-		int[][] cost_mat = new int[length][length];
+		double [][] cost_mat = new double[length][length];
 		for (int i = 0; i < n.length; i++) {
 			for (int j = 0; j < m.length; j++) {			
 				cost_mat[i][j] = Cost_cmp.Cost(n[i], m[j]);

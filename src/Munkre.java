@@ -1,16 +1,23 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+//package algorithm;
+
 import java.awt.Point;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
 /**
  * 
- * @author zhuofu
+ * @author Boya Sun
  */
 public class Munkre {
 
 	public void demo() {
-		int[][] input = { { 1, 2, 3 ,4}, { 2, 4, 3 ,2}, { 3, 2, 2,3 } };
-		int[] result = Munkre(input, 3);
+		double [][] input = { { 1, 2, 3 ,4}, { 2, 4, 3 ,2}, { 3, 2, 2,3 } };
+		int [] result = Munkre(input, 3);
 		for (int i = 0; i < result.length; i++)
 			System.out.println(result[i] + " " + input[i][result[i]]);
 
@@ -24,8 +31,8 @@ public class Munkre {
 	 *            Dimension of the matrix
 	 * @return Positions of stared zeros
 	 */
-	public int[] Munkre(int[][] input_data, int n) {
-		int[][] input = new int[n][n];
+	public int[] Munkre(double [][] input_data, int n) {
+		double [][] input = new double[n][n];
 		for (int i = 0; i < n; i++)
 			for (int j = 0; j < n; j++) {
 				input[i][j] = input_data[i][j];
@@ -65,7 +72,7 @@ public class Munkre {
 		 ****************/
 		for (int i = 0; i < n; i++) {
 			// get the minimum integer of the row
-			int min = min(input[i]);
+			double min = min(input[i]);
 			// substract min from every number in the row
 			for (int j = 0; j < n; j++) {
 				input[i][j] = input[i][j] - min;
@@ -193,7 +200,7 @@ public class Munkre {
 
 				} else {
 					// Get the smallest uncovered element e_min
-					int e_min = Integer.MAX_VALUE;
+					double e_min = Double.MAX_VALUE;
 					for (int i = 0; i < n; i++) {
 						if (covered_rows[i] == 1)
 							continue;
@@ -237,8 +244,8 @@ public class Munkre {
 
 	}
 
-	private int min(int[] input) {
-		int min = Integer.MAX_VALUE;
+	private double min(double[] input) {
+		double min = Double.MAX_VALUE;
 		for (int i = 0; i < input.length; i++) {
 			if (input[i] < min)
 				min = input[i];

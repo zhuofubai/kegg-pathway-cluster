@@ -9,19 +9,19 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String xmlFileName = "/test5.xml";
+		String xmlFileName = "/home/zhuofu/Desktop/test/2.xml";
 		vertex[] test=GetNodes.GetNodesInfo(xmlFileName);
 		System.out.println("check");
 		for (int j = 0; j < test.length; j++) {
 			System.out.println(test[j].edge_num);
 		}
-		String xmlFileName2="/test6.xml";
+		String xmlFileName2="/home/zhuofu/Desktop/test/4.xml";
 		vertex[] test2=GetNodes.GetNodesInfo(xmlFileName2);
 		System.out.println("check");
 		for (int j = 0; j < test2.length; j++) {
 			System.out.println(test2[j].edge_num);
 		}
-		int[][] cost=costmatrix.costmatrix_cmp(test, test2);
+		double[][] cost=costmatrix.costmatrix_cmp(test, test2);
 		int s=test.length+test2.length;
 		System.out.println("s is"+s);
 		for(int n=0;n<s;n++){

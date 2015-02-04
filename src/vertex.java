@@ -1,13 +1,12 @@
-
 /**
- * 
  * @author zhuofu
+ *
  */
-
+ 
 public class vertex {
 	int edge_num;
 	int type;
-	
+	String[] EC_num;
 
 	public static void main(String[] args) {
 		int i = 100;

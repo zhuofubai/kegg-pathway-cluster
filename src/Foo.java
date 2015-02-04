@@ -7,6 +7,11 @@ import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 import org.dom4j.Element;
 
+/**
+ * @author zhuofu
+ *
+ */
+ 
 public class Foo {
 	/**
 	 * This method is used to load the xml file to a document and return it

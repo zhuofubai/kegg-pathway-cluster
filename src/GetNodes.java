@@ -7,10 +7,6 @@ import org.dom4j.DocumentException;
 import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 
-/**
- * @author zhuofu
- *
- */
 public class GetNodes {
 	/**
 	 * This method is used to get node information from a xml document and
@@ -41,6 +37,11 @@ public class GetNodes {
 		for (Node reaction : reactions) {
 			vertices[i] = new vertex();
 			vertices[i].type = 1;
+			if(reaction.selectSingleNode("bp:EC-NUMBER")!=null){
+				String ec1=reaction.selectSingleNode("bp:EC-NUMBER").getText();
+				String ec=ec1.replaceAll("-", "0");
+				vertices[i].EC_num=ec.split("\\.");
+			}
 			i++;
 		}
 		/* GET BEGIN NODE */
@@ -105,14 +106,17 @@ public class GetNodes {
 	}
 
 	public static void main(String[] args) {
-		String xmlFileName = "/test3.xml";
+		String xmlFileName = "/home/zhuofu/Desktop/test4.xml";
 		Document document = Foo.getDocument(xmlFileName);
 		// Element root = document.getRootElement();
 		List<Node> reactions = document
 				.selectNodes("//rdf:RDF/bp:biochemicalReaction");
+		List<Node> enzymes =document
+		.selectNodes("//rdf:RDF/bp:biochemicalReaction/bp:EC-NUMBER");
 		List<Node> simpMols = document
 				.selectNodes("//rdf:RDF/bp:smallMolecule");
 		List<Node> proteins = document.selectNodes("//rdf:RDF/bp:protein");
+		
 		int prosize = proteins.size();
 		int s = reactions.size() + simpMols.size();
 		System.out.println("s is" + s);
@@ -130,6 +134,11 @@ public class GetNodes {
 		for (Node reaction : reactions) {
 			vertices[i] = new vertex();
 			vertices[i].type = 1;
+			if(reaction.selectSingleNode("bp:EC-NUMBER")!=null){
+				String ec1=reaction.selectSingleNode("bp:EC-NUMBER").getText();
+				String ec=ec1.replaceAll("-", "0");
+				vertices[i].EC_num=ec.split("\\.");
+			}
 			i++;
 		}
 		System.out.println(i);
