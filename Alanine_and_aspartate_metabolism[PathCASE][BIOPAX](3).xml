@@ -1,0 +1,2227 @@
+<?xml version="1.0" ?>
+<rdf:RDF xmlns="http://nashua.cwru.edu/PathwaysWeb" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xs="http://www.w3.org/2001/XMLSchema#" xmlns:bp="http://www.biopax.org/release/biopax-level1.owl#" xml:base="http://nashua.cwru.edu/pathways#">
+<owl:Ontology rdf:about=""> <owl:imports rdf:resource="http://www.biopax.org/release/biopax-level1.owl" />
+</owl:Ontology>
+<bp:smallMolecule rdf:ID="entity125">
+<bp:NAME rdf:datatype="xs:string">O-Acetylcarnitine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C9H18NO4</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">O-Acetylcarnitine</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">O-Acetyl-L-carnitine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity126">
+<bp:NAME rdf:datatype="xs:string">L-Glutamine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C5H10N2O3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-2-Aminoglutaramic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Glutamine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity127">
+<bp:NAME rdf:datatype="xs:string">L-Alanine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C3H7NO2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-alpha-Alanine</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-2-Aminopropionic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Alanine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity128">
+<bp:NAME rdf:datatype="xs:string">beta-Alanine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C3H7NO2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">3-Aminopropanoate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">beta-Alanine</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">3-Aminopropionic acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity129">
+<bp:NAME rdf:datatype="xs:string">Acetyl-CoA</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C23H38N7O17P3S</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Acetyl coenzyme A</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Acetyl-CoA</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity130">
+<bp:NAME rdf:datatype="xs:string">Enzyme N6-(lipoyl)lysine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C8H14NOS2R</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Enzyme N6-(lipoyl)lysine</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Lipoamide-E</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity131">
+<bp:NAME rdf:datatype="xs:string">Pyridoxal phosphate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C8H10NO6P</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Pyridoxal 5-phosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Pyridoxal 5'-phosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Pyridoxal phosphate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity132">
+<bp:NAME rdf:datatype="xs:string">L-Glutamate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C5H9NO4</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Glutamic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Glutaminic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Glutamate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity133">
+<bp:NAME rdf:datatype="xs:string">tRNA(Ala)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H17O10PR2(C5H8O6PR)n</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">tRNA(Ala)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity134">
+<bp:NAME rdf:datatype="xs:string">Carnosine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C9H14N4O3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Nalpha-(beta-alanyl)-L-histidine</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Carnosine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity135">
+<bp:NAME rdf:datatype="xs:string">L-Histidine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C6H9N3O2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Histidine</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">(S)-alpha-Amino-1H-imidazole-4-propionic acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity136">
+<bp:NAME rdf:datatype="xs:string">IMP</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H13N4O8P</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Inosine 5'-phosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">5'-IMP</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">5'-Inosinate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">5'-Inosinic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">5'-Inosine monophosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Inosine monophosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Inosine 5'-monophosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Inosinic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">IMP</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity137">
+<bp:NAME rdf:datatype="xs:string">FAD</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C27H33N9O15P2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">FAD</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Flavin adenine dinucleotide</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity138">
+<bp:NAME rdf:datatype="xs:string">[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H18NO2S2R</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">S-Acetyldihydrolipoamide-E</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity139">
+<bp:NAME rdf:datatype="xs:string">L-Aspartyl-tRNA(Asn)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C14H22NO13PR2(C5H8O6PR)n</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Aspartyl-tRNA(Asn)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Aspartyl-tRNA(Asn)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Asp-tRNA(Asn)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity140">
+<bp:NAME rdf:datatype="xs:string">L-Alanyl-tRNA</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C13H22NO11PR2(C5H8O6PR)n</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Alanyl-tRNA</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Alanyl-tRNA(Ala)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity141">
+<bp:NAME rdf:datatype="xs:string">N6-(1,2-Dicarboxyethyl)-AMP</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C14H18N5O11P</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Adenylosuccinic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Adenylosuccinate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">N6-(1,2-Dicarboxyethyl)-AMP</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity142">
+<bp:NAME rdf:datatype="xs:string">AMP</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H14N5O7P</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Adenosine 5'-monophosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Adenylate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">AMP</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">5'-Adenosine monophosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Adenosine 5'-phosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">5'-Adenylic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">5'-AMP</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Adenylic acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity143">
+<bp:NAME rdf:datatype="xs:string">2-Oxoglutarate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C5H6O5</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Oxoglutaric acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Oxoglutarate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alpha-Ketoglutaric acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Ketoglutaric acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity144">
+<bp:NAME rdf:datatype="xs:string">Fumarate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C4H4O4</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Fumarate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">trans-Butenedioic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Fumaric acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity145">
+<bp:NAME rdf:datatype="xs:string">GDP</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H15N5O11P2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">GDP</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Guanosine diphosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Guanosine 5'-diphosphate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity146">
+<bp:NAME rdf:datatype="xs:string">N-(L-Arginino)succinate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H18N4O6</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">N-(L-Arginino)succinate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Argininosuccinate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Argininosuccinic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">N(omega)-(L-Arginino)succinate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Arginosuccinic acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity147">
+<bp:NAME rdf:datatype="xs:string">tRNA(Asp)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H17O10PR2(C5H8O6PR)n</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">tRNA(Asp)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity148">
+<bp:NAME rdf:datatype="xs:string">Enzyme N6-(dihydrolipoyl)lysine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C8H16NOS2R</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Dihydrolipoamide-E</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Enzyme N6-(dihydrolipoyl)lysine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity149">
+<bp:NAME rdf:datatype="xs:string">Glycine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C2H5NO2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Aminoacetic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Gly</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Glycine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity150">
+<bp:NAME rdf:datatype="xs:string">Glyoxylate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C2H2O3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Glyoxalate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Glyoxylate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Glyoxylic acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity151">
+<bp:NAME rdf:datatype="xs:string">Oxygen</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">O2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">O2</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Oxygen</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity152">
+<bp:NAME rdf:datatype="xs:string">D-Aspartate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C4H7NO4</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">D-Aspartic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">D-Aspartate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity153">
+<bp:NAME rdf:datatype="xs:string">2-Oxosuccinamate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C4H5NO4</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Oxosuccinamate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity154">
+<bp:NAME rdf:datatype="xs:string">Carbamoyl phosphate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">CH4NO5P</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Carbamoyl phosphate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity155">
+<bp:NAME rdf:datatype="xs:string">3-Fluoro-D-alanine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C3H6FNO2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">3-Fluoro-D-alanine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity156">
+<bp:NAME rdf:datatype="xs:string">N-Acetyl-L-aspartate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C6H9NO5</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">N-Acetyl-L-aspartate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity157">
+<bp:NAME rdf:datatype="xs:string">L-Arginine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C6H14N4O2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Arginine</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">(S)-2-Amino-5-guanidinovaleric acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity158">
+<bp:NAME rdf:datatype="xs:string">NH3</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">NH3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Ammonia</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">NH3</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity159">
+<bp:NAME rdf:datatype="xs:string">CTP</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C9H16N3O14P3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Cytidine triphosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">CTP</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Cytidine 5'-triphosphate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity160">
+<bp:NAME rdf:datatype="xs:string">UTP</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C9H15N2O15P3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Uridine 5'-triphosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Uridine triphosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">UTP</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity161">
+<bp:NAME rdf:datatype="xs:string">L-Aspartyl-tRNA(Asp)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C14H22NO13PR2(C5H8O6PR)n</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Aspartyl-tRNA(Asp)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity162">
+<bp:NAME rdf:datatype="xs:string">Biotin</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H16N2O3S</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">D-Biotin</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Vitamin H</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Biotin</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Coenzyme R</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity163">
+<bp:NAME rdf:datatype="xs:string">L-Asparagine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C4H8N2O3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Aminosuccinamic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Asparagine</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity164">
+<bp:NAME rdf:datatype="xs:string">Manganese</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">Mn</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Manganese</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Mn2+</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Mn(II)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Mn(III)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity165">
+<bp:NAME rdf:datatype="xs:string">3-Oxopropanoate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C3H4O3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">3-Oxopropanoate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Malonate semialdehyde</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity166">
+<bp:NAME rdf:datatype="xs:string">Thiamin diphosphate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C12H19N4O7P2S</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">ThPP</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">TPP</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Thiamine diphosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Thiamin pyrophosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Thiamin diphosphate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity167">
+<bp:NAME rdf:datatype="xs:string">L-Aspartate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C4H7NO4</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Aspartate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Aspartic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Aminosuccinic acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity168">
+<bp:NAME rdf:datatype="xs:string">L-Asparaginyl-tRNA(Asn)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C14H23N2O12PR2(C5H8O6PR)n</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Asparaginyl-tRNA(Asn)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Asparaginyl-tRNA(Asn)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Asn-tRNA(Asn)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity169">
+<bp:NAME rdf:datatype="xs:string">Oxaloacetate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C4H4O5</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Oxosuccinic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Oxaloacetic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">keto-Oxaloacetate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Oxobutanedioic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Oxalacetic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Oxaloacetate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity170">
+<bp:NAME rdf:datatype="xs:string">GTP</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H16N5O14P3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">GTP</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Guanosine 5'-triphosphate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity171">
+<bp:NAME rdf:datatype="xs:string">2-(alpha-Hydroxyethyl)thiamine diphosphate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C14H23N4O8P2S</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">2-(alpha-Hydroxyethyl)thiamine diphosphate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Hydroxyethyl-ThPP</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity172">
+<bp:NAME rdf:datatype="xs:string">L-Citrulline</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C6H13N3O3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Citrulline</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Amino-5-ureidovaleric acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-Citrulline</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity173">
+<bp:NAME rdf:datatype="xs:string">D-Alanine</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C3H7NO2</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">D-2-Aminopropionic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">D-Alanine</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">D-Ala</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity174">
+<bp:NAME rdf:datatype="xs:string">Zinc</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">Zn</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Zinc</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Zn2+</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Zn(II)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity175">
+<bp:NAME rdf:datatype="xs:string">Pyruvate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C3H4O3</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Pyruvate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Oxopropanoate</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Pyruvic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-Oxopropanoic acid</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Pyroracemic acid</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity176">
+<bp:NAME rdf:datatype="xs:string">N-Carbamoyl-L-aspartate</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C5H8N2O5</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">N-Carbamoyl-L-aspartate</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:smallMolecule rdf:ID="entity177">
+<bp:NAME rdf:datatype="xs:string">tRNA(Asn)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string">C10H17O10PR2(C5H8O6PR)n</bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">tRNA(Asn)</bp:SYNONYMS>
+</bp:smallMolecule>
+<bp:protein rdf:ID="entity178">
+<bp:NAME rdf:datatype="xs:string">aspartate 4-decarboxylase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate beta-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-cysteine sulfinate acid desulfinase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic beta-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate omega-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">cysteine sulfinic desulfinase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic omega-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">desulfinase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate 4-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate 4-carboxy-lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate beta-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aminomalonic decarboxylase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity179">
+<bp:NAME rdf:datatype="xs:string">ureidosuccinase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">ureidosuccinase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity180">
+<bp:NAME rdf:datatype="xs:string">beta-alanine---pyruvate transaminase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">beta-alanine-alpha-alanine transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">beta-alanine---pyruvate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">beta-alanine-pyruvate aminotransferase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity181">
+<bp:NAME rdf:datatype="xs:string">aspartate transaminase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic-aspartic transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">oxaloacetate transferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate-2-oxoglutarate-transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate-2-oxoglutarate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aat</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic oxalic transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamate-oxalacetate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamate oxaloacetate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate-alpha-ketoglutarate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate alpha-ketoglutarate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Ast</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">GOT (enzyme)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate-2-ketoglutarate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic-oxaloacetic transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic-oxalacetic transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartic aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartyl aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamate-oxalate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic-aspartic aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic acid aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspT</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate-2-oxoglutarate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">transaminase A</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate:2-oxoglutarate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">oxaloacetate-aspartate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-oxoglutarate-glutamate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate aminotransferase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity182">
+<bp:NAME rdf:datatype="xs:string">alanine transaminase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic-pyruvic aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic-pyruvic transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">pyruvate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine-pyruvate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">pyruvate-alanine aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine-alpha-ketoglutarate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic-alanine transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">gpt</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alt</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-alanine aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">beta-alanine aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">pyruvate-glutamate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-alanine transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamic acid-pyruvic acid transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-alanine-alpha-ketoglutarate aminotransferase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity183">
+<bp:NAME rdf:datatype="xs:string">aspartate ammonia-lyase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate ammonia-lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate ammonia-lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">fumaric aminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity184">
+<bp:NAME rdf:datatype="xs:string">carnitine O-acetyltransferase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">carnitine O-acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carnitine-acetyl-CoA transferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carnitine acetyl coenzyme A transferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">catC</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">acetylcarnitine transferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carnitine acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carnitine acetylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">acetyl-CoA-carnitine O-acetyltransferase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity185">
+<bp:NAME rdf:datatype="xs:string">aspartate 1-decarboxylase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate 1-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate alpha-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic alpha-decarboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate 1-carboxy-lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate alpha-decarboxylase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity186">
+<bp:NAME rdf:datatype="xs:string">carnosine synthase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">carnosine synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">homocarnosine-carnosine synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carnosine-homocarnosine synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carnosine-anserine synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carnosine synthase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity187">
+<bp:NAME rdf:datatype="xs:string">D-aspartate oxidase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">D-aspartic oxidase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic oxidase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">D-aspartate oxidase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity188">
+<bp:NAME rdf:datatype="xs:string">asparaginyl-tRNA synthase (glutamine-hydrolysing)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartyl-tRNAAsn amidotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Asn-tRNAAsn:L-glutamine amido-ligase (ADP-forming)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Asp-tRNAAsn amidotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparaginyl-tRNA synthase (glutamine-hydrolysing)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Asp-AdT</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity189">
+<bp:NAME rdf:datatype="xs:string">asparagine---tRNA ligase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">asparagine translase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparaginyl-transfer ribonucleate synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparaginyl transfer RNA synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparagyl-transfer RNA synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparaginyl transfer ribonucleic acid synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparagine---tRNA ligase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparaginyl-tRNA synthetase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity190">
+<bp:NAME rdf:datatype="xs:string">adenylosuccinate lyase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">adenylosuccinate lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">adenylosuccinase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">6-N-(1,2-dicarboxyethyl)AMP AMP-lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">6-N-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">succino AMP-lyase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity191">
+<bp:NAME rdf:datatype="xs:string">alanine---tRNA ligase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine-transfer RNA ligase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanyl-transfer ribonucleic acid synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine transfer RNA synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine tRNA synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine translase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine---tRNA ligase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alarS</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanyl-transfer ribonucleate synthase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanyl-tRNA synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">Ala-tRNA synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanyl-transfer RNA synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanyl-transfer ribonucleate synthetase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity192">
+<bp:NAME rdf:datatype="xs:string">argininosuccinate synthase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">argininosuccinate synthase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">arginine succinate synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">argininosuccinic acid synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">citrulline---aspartate ligase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">argininosuccinate synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">arginosuccinate synthetase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity193">
+<bp:NAME rdf:datatype="xs:string">argininosuccinate lyase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">omega-N-(L-arginino)succinate arginine-lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">2-(omega-N-L-arginino)succinate arginine-lyase (fumarate-forming)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">arginine-succinate lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">arginosuccinase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">argininosuccinate lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">N-(L-argininosuccinate) arginine-lyase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">argininosuccinic acid lyase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity194">
+<bp:NAME rdf:datatype="xs:string">aspartate carbamoyltransferase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic transcarbamylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carbamylaspartotranskinase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate carbamyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate transcarbamoylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic carbamyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">carbamoylaspartotranskinase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic acid transcarbamoylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate transcarbamylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate transcarbamylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">ATCase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate carbamoyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate transcarbamoylase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity195">
+<bp:NAME rdf:datatype="xs:string">asparagine synthase (glutamine-hydrolysing)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">asparagine synthase (glutamine-hydrolysing)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">AS-B</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparagine synthetase (glutamine-hydrolysing)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">As</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">glutamine-dependent asparagine synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparagine synthetase B</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity196">
+<bp:NAME rdf:datatype="xs:string">adenylosuccinate synthase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">succinoadenylic kinosynthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">succino-AMP synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">adenylosuccinate synthase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">IMP---aspartate ligase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">adenylosuccinate synthetase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity197">
+<bp:NAME rdf:datatype="xs:string">aspartate---ammonia ligase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate---ammonia ligase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-asparagine synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparagine synthetase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity198">
+<bp:NAME rdf:datatype="xs:string">aspartate racemase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">D-aspartate racemase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">mcyF</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate racemase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity199">
+<bp:NAME rdf:datatype="xs:string">alanine racemase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-alanine racemase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine racemase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity200">
+<bp:NAME rdf:datatype="xs:string">pyruvate carboxylase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">pyruvic carboxylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">pyruvate carboxylase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity201">
+<bp:NAME rdf:datatype="xs:string">pyruvate dehydrogenase (NADP+)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">pyruvate dehydrogenase (NADP+)</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity202">
+<bp:NAME rdf:datatype="xs:string">L-aspartate oxidase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">L-aspartate oxidase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity203">
+<bp:NAME rdf:datatype="xs:string">aspartate---tRNAAsn ligase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate---tRNAAsn ligase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">nondiscriminating aspartyl-tRNA synthetase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity204">
+<bp:NAME rdf:datatype="xs:string">malonate-semialdehyde dehydrogenase (acetylating)</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">malonate-semialdehyde dehydrogenase (acetylating)</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">malonic semialdehyde oxidative decarboxylase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity205">
+<bp:NAME rdf:datatype="xs:string">aspartate---tRNA ligase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartyl ribonucleic synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartyl-transfer ribonucleic acid synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartyl-transfer RNA synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartic acid translase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartyl ribonucleate synthetase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartate---tRNA ligase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">aspartyl-tRNA synthetase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity206">
+<bp:NAME rdf:datatype="xs:string">alanine---glyoxylate transaminase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">Agt</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-alanine-glycine transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine-glyoxylate aminotransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine---glyoxylate transaminase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alanine-glyoxylic aminotransferase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity207">
+<bp:NAME rdf:datatype="xs:string">asparaginase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">crasnitin</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">alpha-asparaginase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">elspar</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">colaspase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparaginase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">asparaginase II</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">L-asparaginase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">leunase</bp:SYNONYMS>
+</bp:protein>
+<bp:protein rdf:ID="entity208">
+<bp:NAME rdf:datatype="xs:string">dihydrolipoyllysine-residue acetyltransferase</bp:NAME>
+<bp:COMMENT rdf:datatype="xs:string"></bp:COMMENT>
+<bp:SYNONYMS rdf:datatype="xs:string">lipoic transacetylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">lipoate acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">dihydrolipoyllysine-residue acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">dihydrolipoamide S-acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">lipoate transacetylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">lipoic acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">acetyl-CoA:enzyme 6-N-(dihydrolipoyl)lysine S-acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">dihydrolipoyl acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">dihydrolipoic transacetylase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">lipoic acid acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">acetyl-CoA:dihydrolipoamide S-acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">dihydrolipoate acetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">lipoylacetyltransferase</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">thioltransacetylase A</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">transacetylase X</bp:SYNONYMS>
+<bp:SYNONYMS rdf:datatype="xs:string">enzyme-dihydrolipoyllysine:acetyl-CoA S-acetyltransferase</bp:SYNONYMS>
+</bp:protein>
+<bp:biochemicalReaction rdf:ID="entity209">
+<bp:EC-NUMBER rdf:datatype="xs:string">1.2.1.18</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">3-Oxopropanoate:NADP+ oxidoreductase (decarboxylating, CoA-acetylating)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity165-PEP164">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity165" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity129-PEP165">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity129" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity210">
+<bp:EC-NUMBER rdf:datatype="xs:string">4.3.2.1</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">N-(L-Argininosuccinate) arginie-lyase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity146-PEP166">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity146" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity144-PEP167">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity144" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity157-PEP168">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity157" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity211">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.3.2.11</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Histidine:beta-alanine ligase (AMP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity135-PEP169">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity135" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity128-PEP170">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity128" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity134-PEP171">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity134" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity212">
+<bp:EC-NUMBER rdf:datatype="xs:string">3.5.1.7</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">N-Carbamoyl-L-aspartate amidohydrolase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity176-PEP172">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity176" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP173">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity213">
+<bp:EC-NUMBER rdf:datatype="xs:string">2.6.1.44</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Alanine:glyoxylate aminotransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity127-PEP174">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity127" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity150-PEP175">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity150" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity149-PEP176">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity149" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity175-PEP177">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity175" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity214">
+<bp:NAME rdf:datatype="xs:string">L-Asparagine:2-oxo-acid aminotransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity163-PEP178">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity163" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity153-PEP179">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity153" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity215">
+<bp:NAME rdf:datatype="xs:string">Nalpha-(beta-alanyl)-L-histidine hydrolase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity134-PEP180">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity134" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity135-PEP181">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity135" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity128-PEP182">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity128" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity216">
+<bp:EC-NUMBER rdf:datatype="xs:string">5.1.1.13</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartate racemase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP183">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity152-PEP184">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity152" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity217">
+<bp:EC-NUMBER rdf:datatype="xs:string">4.3.2.2</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">N6-(1,2-Dicarboxyethyl)AMP AMP-lyase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity141-PEP185">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity141" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity144-PEP186">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity144" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity142-PEP187">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity142" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity218">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.3.4.5</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Citrulline:L-aspartate ligase (AMP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity172-PEP188">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity172" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP189">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity146-PEP190">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity146" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity219">
+<bp:EC-NUMBER rdf:datatype="xs:string">2.6.1.2</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Alanine:2-oxoglutarate aminotransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity143-PEP191">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity143" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity127-PEP192">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity127" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity132-PEP193">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity132" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity175-PEP194">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity175" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity220">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.1.1.23</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartate:tRNAAsp ligase (AMP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP195">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity139-PEP196">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity139" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity221">
+<bp:EC-NUMBER rdf:datatype="xs:string">2.3.1.12</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity148-PEP197">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity148" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity129-PEP198">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity129" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity138-PEP199">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity138" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity222">
+<bp:NAME rdf:datatype="xs:string">N-Acetyl-L-aspartate amidohydrolase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity156-PEP200">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity156" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP201">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity223">
+<bp:NAME rdf:datatype="xs:string">enzyme N6-(dihydrolipoyl)lysine:NAD+ oxidoreductase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity148-PEP202">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity148" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity130-PEP203">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity130" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity224">
+<bp:NAME rdf:datatype="xs:string">2-Oxosuccinamate amidohydrolase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity153-PEP204">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity153" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity169-PEP205">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity169" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity225">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.3.5.4</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-aspartate:L-glutamine amido-ligase (AMP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity126-PEP206">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity126" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP207">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity163-PEP208">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity163" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity132-PEP209">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity132" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity226">
+<bp:NAME rdf:datatype="xs:string">pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity175-PEP210">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity175" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity166-PEP211">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity166" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity171-PEP212">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity171" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity227">
+<bp:EC-NUMBER rdf:datatype="xs:string">2.3.1.7</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">Acetyl-CoA:carnitine O-acetyltransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity129-PEP213">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity129" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity125-PEP214">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity125" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity228">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.3.4.4</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">IMP:L-aspartate ligase (GDP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity170-PEP215">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity170" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity136-PEP216">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity136" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP217">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity145-PEP218">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity145" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity141-PEP219">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity141" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity229">
+<bp:EC-NUMBER rdf:datatype="xs:string">2.1.3.2</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">Carbamoyl-phosphate:L-aspartate carbamoyltransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity154-PEP220">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity154" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP221">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity176-PEP222">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity176" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity230">
+<bp:EC-NUMBER rdf:datatype="xs:string">3.5.1.1</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Asparagine amidohydrolase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity163-PEP223">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity163" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity158-PEP224">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity158" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP225">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity231">
+<bp:NAME rdf:datatype="xs:string">3-Aminopropanoate:2-oxoglutarate aminotransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity128-PEP226">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity128" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity143-PEP227">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity143" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity165-PEP228">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity165" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity232">
+<bp:EC-NUMBER rdf:datatype="xs:string">1.4.3.16</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartic acid:oxygen oxidoreductase (deaminating)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP229">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity169-PEP230">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity169" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity233">
+<bp:EC-NUMBER rdf:datatype="xs:string">1.4.3.1</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">D-Aspartate:oxygen oxidoreductase (deaminating)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity152-PEP231">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity152" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity169-PEP232">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity169" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity234">
+<bp:EC-NUMBER rdf:datatype="xs:string">1.2.1.51</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">pyruvate:NADP+ 2-oxidoreductase (CoA-acetylating)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity175-PEP233">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity175" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity129-PEP234">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity129" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity235">
+<bp:EC-NUMBER rdf:datatype="xs:string">4.3.1.1</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartate ammonia-lyase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP235">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity144-PEP236">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity144" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity158-PEP237">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity158" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity236">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.1.1.12</bp:EC-NUMBER>
+<bp:EC-NUMBER rdf:datatype="xs:string">6.1.1.23</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartate:tRNA(Asp) ligase (AMP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity147-PEP238">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity147" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP239">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity161-PEP240">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity161" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity237">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.1.1.7</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Alanine:tRNA(Ala) ligase (AMP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity127-PEP241">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity127" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity133-PEP242">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity133" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity140-PEP243">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity140" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity238">
+<bp:EC-NUMBER rdf:datatype="xs:string">5.1.1.1</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Alanine racemase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity127-PEP244">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity127" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity173-PEP245">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity173" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity239">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.4.1.1</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">Pyruvate:carbon-dioxide ligase (ADP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity175-PEP246">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity175" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity169-PEP247">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity169" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity240">
+<bp:NAME rdf:datatype="xs:string">L-Alanine:2-oxo-acid aminotransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity127-PEP248">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity127" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity169-PEP249">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity169" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity175-PEP250">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity175" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP251">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity241">
+<bp:NAME rdf:datatype="xs:string">R03270</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity130-PEP252">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity130" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity171-PEP253">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity171" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity138-PEP254">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity138" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity166-PEP255">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity166" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity242">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.3.5.6</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity168-PEP256">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity168" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity139-PEP257">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity139" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity243">
+<bp:EC-NUMBER rdf:datatype="xs:string">4.1.1.12</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartate 4-carboxy-lyase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP258">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity127-PEP259">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity127" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity244">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.3.1.1</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartate:ammonia ligase (AMP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity158-PEP260">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity158" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP261">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity163-PEP262">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity163" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity245">
+<bp:EC-NUMBER rdf:datatype="xs:string">2.6.1.1</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartate:2-oxoglutarate aminotransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity143-PEP263">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity143" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP264">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity132-PEP265">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity132" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity169-PEP266">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity169" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity246">
+<bp:EC-NUMBER rdf:datatype="xs:string">6.1.1.22</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Asparagine:tRNA(Asn) ligase (AMP-forming)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity177-PEP267">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity177" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity163-PEP268">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity163" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity168-PEP269">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity168" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity247">
+<bp:EC-NUMBER rdf:datatype="xs:string">2.6.1.18</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Alanine:3-oxopropanoate aminotransferase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity127-PEP270">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity127" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity165-PEP271">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity165" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity128-PEP272">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity128" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity175-PEP273">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity175" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity248">
+<bp:EC-NUMBER rdf:datatype="xs:string">1.2.1.18</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">3-Oxopropanoate:NAD+ oxidoreductase (decarboxylating, CoA-acetylating)</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity165-PEP274">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity165" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity129-PEP275">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity129" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:biochemicalReaction rdf:ID="entity249">
+<bp:EC-NUMBER rdf:datatype="xs:string">4.1.1.11</bp:EC-NUMBER>
+<bp:NAME rdf:datatype="xs:string">L-Aspartate 1-carboxy-lyase</bp:NAME>
+<bp:LEFT>
+<bp:physicalEntityParticipant rdf:ID="entity167-PEP276">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity167" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:LEFT>
+<bp:RIGHT>
+<bp:physicalEntityParticipant rdf:ID="entity128-PEP277">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity128" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:RIGHT>
+</bp:biochemicalReaction>
+<bp:catalysis rdf:ID="entity209-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process 3-Oxopropanoate:NADP+ oxidoreductase (decarboxylating, CoA-acetylating) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity204-PEP278">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity204" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity209"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity210-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process N-(L-Argininosuccinate) arginie-lyase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity193-PEP279">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity193" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity210"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity211-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Histidine:beta-alanine ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity186-PEP280">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity186" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity211"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity212-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process N-Carbamoyl-L-aspartate amidohydrolase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity179-PEP281">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity179" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity212"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity213-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity131-PEP282">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity131" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Alanine:glyoxylate aminotransferase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity206-PEP283">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity206" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity213"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity216-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate racemase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity198-PEP284">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity198" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity216"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity217-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process N6-(1,2-Dicarboxyethyl)AMP AMP-lyase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity190-PEP285">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity190" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity217"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity218-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Citrulline:L-aspartate ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity192-PEP286">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity192" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity218"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity219-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity131-PEP287">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity131" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Alanine:2-oxoglutarate aminotransferase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity182-PEP288">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity182" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity219"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity220-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate:tRNAAsp ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity203-PEP289">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity203" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity220"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity221-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity208-PEP290">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity208" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity221"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity225-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-aspartate:L-glutamine amido-ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity195-PEP291">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity195" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity225"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity227-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process Acetyl-CoA:carnitine O-acetyltransferase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity184-PEP292">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity184" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity227"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity228-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process IMP:L-aspartate ligase (GDP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity196-PEP293">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity196" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity228"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity229-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process Carbamoyl-phosphate:L-aspartate carbamoyltransferase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity194-PEP294">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity194" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity229"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity230-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Asparagine amidohydrolase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity207-PEP295">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity207" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity230"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity232-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity137-PEP296">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity137" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartic acid:oxygen oxidoreductase (deaminating) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity202-PEP297">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity202" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity232"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity233-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity137-PEP298">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity137" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process D-Aspartate:oxygen oxidoreductase (deaminating) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity187-PEP299">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity187" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity233"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity234-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process pyruvate:NADP+ 2-oxidoreductase (CoA-acetylating) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity201-PEP300">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity201" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity234"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity235-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate ammonia-lyase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity183-PEP301">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity183" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity235"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity236-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate:tRNA(Asp) ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity203-PEP302">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity203" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity236"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity236-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate:tRNA(Asp) ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity205-PEP303">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity205" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity236"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity237-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Alanine:tRNA(Ala) ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity191-PEP304">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity191" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity237"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity238-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity131-PEP305">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity131" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Alanine racemase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity199-PEP306">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity199" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity238"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity239-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity164-PEP307">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity164" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity162-PEP308">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity162" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity129-PEP309">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity129" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity174-PEP310">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity174" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process Pyruvate:carbon-dioxide ligase (ADP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity200-PEP311">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity200" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity239"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity242-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity188-PEP312">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity188" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity242"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity243-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity131-PEP313">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity131" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate 4-carboxy-lyase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity178-PEP314">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity178" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity243"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity244-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate:ammonia ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity197-PEP315">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity197" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity244"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity245-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity131-PEP316">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity131" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate:2-oxoglutarate aminotransferase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity181-PEP317">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity181" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity245"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity246-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Asparagine:tRNA(Asn) ligase (AMP-forming) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity189-PEP318">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity189" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity246"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity247-CAT">
+<bp:COFACTOR>
+<bp:physicalEntityParticipant rdf:ID="entity131-PEP319">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity131" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:COFACTOR>
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Alanine:3-oxopropanoate aminotransferase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity180-PEP320">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity180" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity247"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity248-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process 3-Oxopropanoate:NAD+ oxidoreductase (decarboxylating, CoA-acetylating) by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity204-PEP321">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity204" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity248"/>
+</bp:catalysis>
+<bp:catalysis rdf:ID="entity249-CAT">
+<bp:NAME rdf:datatype="xs:string">Catalization of process L-Aspartate 1-carboxy-lyase by the corresponding enzyme</bp:NAME><bp:CONTROL-TYPE rdf:datatype="xs:string">ACTIVATION</bp:CONTROL-TYPE>
+<bp:DIRECTION rdf:datatype="xs:string">REVERSIBLE</bp:DIRECTION>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity185-PEP322">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity185" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity249"/>
+</bp:catalysis>
+<bp:modulation rdf:ID="entity229-INH1">
+<bp:CONTROL-TYPE rdf:datatype="xs:string">INHIBITION</bp:CONTROL-TYPE>
+<bp:NAME rdf:datatype="xs:string">Inhibition of process Carbamoyl-phosphate:L-aspartate carbamoyltransferase by UTP</bp:NAME>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity160-PEP323">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity160" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity229-CAT"/>
+</bp:modulation>
+<bp:modulation rdf:ID="entity229-INH2">
+<bp:CONTROL-TYPE rdf:datatype="xs:string">INHIBITION</bp:CONTROL-TYPE>
+<bp:NAME rdf:datatype="xs:string">Inhibition of process Carbamoyl-phosphate:L-aspartate carbamoyltransferase by CTP</bp:NAME>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity159-PEP324">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity159" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity229-CAT"/>
+</bp:modulation>
+<bp:modulation rdf:ID="entity234-INH1">
+<bp:CONTROL-TYPE rdf:datatype="xs:string">INHIBITION</bp:CONTROL-TYPE>
+<bp:NAME rdf:datatype="xs:string">Inhibition of process pyruvate:NADP+ 2-oxidoreductase (CoA-acetylating) by Oxygen</bp:NAME>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity151-PEP325">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity151" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity234-CAT"/>
+</bp:modulation>
+<bp:modulation rdf:ID="entity238-INH1">
+<bp:CONTROL-TYPE rdf:datatype="xs:string">INHIBITION</bp:CONTROL-TYPE>
+<bp:NAME rdf:datatype="xs:string">Inhibition of process L-Alanine racemase by 3-Fluoro-D-alanine</bp:NAME>
+<bp:CONTROLLER>
+<bp:physicalEntityParticipant rdf:ID="entity155-PEP326">
+<bp:PHYSICAL-ENTITY rdf:resource="#entity155" />
+<bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</bp:STOICHIOMETRIC-COEFFICIENT>
+</bp:physicalEntityParticipant>
+</bp:CONTROLLER><bp:CONTROLLED rdf:resource="#entity238-CAT"/>
+</bp:modulation>
+<bp:pathway rdf:ID="pathway001">
+<bp:NAME rdf:datatype="xs:string">Alanine and aspartate metabolism</bp:NAME>
+<bp:AVAILABILITY rdf:datatype="xs:string">This pathway is freely available to all users on PathCase website http://nashua.cwru.edu/PathwaysWeb/ </bp:AVAILABILITY>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep1">
+<bp:STEP-INTERACTIONS rdf:resource="#entity209"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity209-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep2">
+<bp:STEP-INTERACTIONS rdf:resource="#entity210-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity210"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep3">
+<bp:STEP-INTERACTIONS rdf:resource="#entity211"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity211-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep4">
+<bp:STEP-INTERACTIONS rdf:resource="#entity212-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity212"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep5">
+<bp:STEP-INTERACTIONS rdf:resource="#entity213-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity213"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep6">
+<bp:STEP-INTERACTIONS rdf:resource="#entity214-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity214"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep7">
+<bp:STEP-INTERACTIONS rdf:resource="#entity215-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity215"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep8">
+<bp:STEP-INTERACTIONS rdf:resource="#entity216-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity216"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep9">
+<bp:STEP-INTERACTIONS rdf:resource="#entity217-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity217"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep10">
+<bp:STEP-INTERACTIONS rdf:resource="#entity218"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity218-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep11">
+<bp:STEP-INTERACTIONS rdf:resource="#entity219-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity219"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep12">
+<bp:STEP-INTERACTIONS rdf:resource="#entity220"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity220-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep13">
+<bp:STEP-INTERACTIONS rdf:resource="#entity221"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity221-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep14">
+<bp:STEP-INTERACTIONS rdf:resource="#entity222-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity222"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep15">
+<bp:STEP-INTERACTIONS rdf:resource="#entity223-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity223"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep16">
+<bp:STEP-INTERACTIONS rdf:resource="#entity224"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity224-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep17">
+<bp:STEP-INTERACTIONS rdf:resource="#entity225"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity225-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep18">
+<bp:STEP-INTERACTIONS rdf:resource="#entity226-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity226"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep19">
+<bp:STEP-INTERACTIONS rdf:resource="#entity227"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity227-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep20">
+<bp:STEP-INTERACTIONS rdf:resource="#entity228-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity228"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep21">
+<bp:STEP-INTERACTIONS rdf:resource="#entity229-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity229-INH2"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity229-INH1"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity229"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep22">
+<bp:STEP-INTERACTIONS rdf:resource="#entity230-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity230"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep23">
+<bp:STEP-INTERACTIONS rdf:resource="#entity231-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity231"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep24">
+<bp:STEP-INTERACTIONS rdf:resource="#entity232"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity232-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep25">
+<bp:STEP-INTERACTIONS rdf:resource="#entity233-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity233"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep26">
+<bp:STEP-INTERACTIONS rdf:resource="#entity234-INH1"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity234"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity234-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep27">
+<bp:STEP-INTERACTIONS rdf:resource="#entity235"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity235-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep28">
+<bp:STEP-INTERACTIONS rdf:resource="#entity236"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity236-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep29">
+<bp:STEP-INTERACTIONS rdf:resource="#entity237"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity237-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep30">
+<bp:STEP-INTERACTIONS rdf:resource="#entity238-INH1"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity238-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity238"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep31">
+<bp:STEP-INTERACTIONS rdf:resource="#entity239"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity239-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep32">
+<bp:STEP-INTERACTIONS rdf:resource="#entity240-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity240"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep33">
+<bp:STEP-INTERACTIONS rdf:resource="#entity241-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity241"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep34">
+<bp:STEP-INTERACTIONS rdf:resource="#entity242"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity242-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep35">
+<bp:STEP-INTERACTIONS rdf:resource="#entity243-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity243"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep36">
+<bp:STEP-INTERACTIONS rdf:resource="#entity244"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity244-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep37">
+<bp:STEP-INTERACTIONS rdf:resource="#entity245"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity245-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep38">
+<bp:STEP-INTERACTIONS rdf:resource="#entity246-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity246"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep39">
+<bp:STEP-INTERACTIONS rdf:resource="#entity247"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity247-CAT"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep40">
+<bp:STEP-INTERACTIONS rdf:resource="#entity248-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity248"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+<bp:PATHWAY-COMPONENTS>
+<bp:pathwayStep rdf:ID="pathwayStep41">
+<bp:STEP-INTERACTIONS rdf:resource="#entity249-CAT"/>
+<bp:STEP-INTERACTIONS rdf:resource="#entity249"/>
+</bp:pathwayStep>
+</bp:PATHWAY-COMPONENTS>
+</bp:pathway></rdf:RDF>
